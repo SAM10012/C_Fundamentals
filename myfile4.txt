@@ -1,0 +1,4 @@
+
+The money amount of account no. 12 is 67.889999
+The money amount of account no. 34 is 98.889999
+The money amount of account no. 34 is 678.989990

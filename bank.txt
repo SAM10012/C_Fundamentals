@@ -1,0 +1,12 @@
+
+ Initially your name, id no., DOB and account balance are as follows: 
+ Samadrita Paul
+ 53
+ 11-04-2001
+ 2000.00
+
+ Your updated name, id no., DOB and account balance are as follows: 
+ Samadrita Paul
+ 53
+ 11-04-2001
+ 2800.00
